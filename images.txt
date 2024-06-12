@@ -4,3 +4,4 @@ jgraph/drawio:latest
 excalidraw/excalidraw:latest
 b3log/siyuan:v2.9.5
 rustdesk/rustdesk-server:latest
+cloudnas/clouddrive2
